@@ -71,8 +71,8 @@ Se você deseja contribuir com melhorias para este script, sinta-se à vontade p
 Para dúvidas ou sugestões, entre em contato comigo:
 
 - Nome: Essias Souza
-- LinkedIn: [Essias Souza](https://www.linkedin.com/in/essias-souza-34317277/)
-- GitHub: [essias](https://github.com/essias)
+- LinkedIn: [Essias Souza](https://www.linkedin.com/in/essias/1)
+- GitHub: [essias](https://github.com/EssiasSouza)
 
 ---
 
